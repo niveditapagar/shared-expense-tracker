@@ -51,3 +51,29 @@ After installing the dependencies, you can run the app locally.
 - Seamlessly track and split expenses among friends.
 - Gain insights into shared expenses and balances.
 - Expand your list by adding more friends to manage expenses collectively.
+
+### Screenshots
+
+#### Home
+
+![Home](./screenshots/home.png)
+
+This is the app's main interface that offers an overview of shared expenses and balances.
+
+#### Add Friend Form
+
+![Home](./screenshots/add-friend-form.png)
+
+Capture details of a new friend: name and image URL, add them to your friends' list.
+
+#### Split Bill Form
+
+![Home](./screenshots/split-bill-form.png)
+
+Split bills with selected friends by inputting bill details: amount, distribution and payer.
+
+#### Split Bill Form - Filled
+
+![Home](./screenshots/split-bill-form-filled.png)
+
+Split bills with selected friends by inputting bill details: amount, distribution and payer, and see instant update in summary.
